@@ -1,0 +1,52 @@
+.container {
+  border:1px solid black;
+  margin: 50px;
+  margin-top: 30px;
+  font: Calibri;
+}
+
+#name{
+  font-size:10px;
+  font-weight: bold;
+  color: rgb(0,91,160);
+  line-height: 1px;
+}
+
+#title{
+  font-size:8px;
+  font-weight: 550;
+  line-height: 1px;
+}
+#line{
+  border-color: black;
+  background-color:black;
+}
+
+#contact{
+  font-weight: lighter;
+  font-size:7px;
+}
+
+.heading{
+  font-size:7px;
+  font-weight: bold;
+}
+
+#objectives{
+  text-indent:20px;
+  font-size:7px;
+}
+
+#content{
+  font-size:7px;
+  list-style-type: disc;
+  list-style-position: inside;
+  text-indent:15px;
+  padding-left:1px;
+  text-align: initial;
+}
+
+span{
+  font-weight: bold;
+  color: rgb(0,91,160);
+}
